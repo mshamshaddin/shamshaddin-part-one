@@ -106,7 +106,6 @@ button:hover {
     background-color: #ff5c0f;
 }
 
-
 @media (min-width: 768px) {
     .top-section {
         flex-direction: row;
